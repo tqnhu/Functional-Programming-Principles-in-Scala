@@ -1,0 +1,6 @@
+test
+main
+run
+test
+./sbin/start-history-server.sh
+exit

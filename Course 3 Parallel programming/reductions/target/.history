@@ -1,0 +1,16 @@
+test
+runMain reductions.LineOfSightRunner
+runMain reductions.ParallelCountChangeRunner
+test
+runMain reductions.ParallelCountChangeRunner
+test
+runMain reductions.ParallelCountChangeRunner
+scala
+test
+runMain reductions.LineOfSightRunner
+sbt
+test
+submit quynh.nhu246@gmail.com t1x9DXHCDxgORaWI
+submit quynh.nhu246@gmail.com Iwdw2TlWQXlII8LK
+test
+submit quynh.nhu246@gmail.com Iwdw2TlWQXlII8LK

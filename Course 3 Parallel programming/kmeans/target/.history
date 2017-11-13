@@ -1,0 +1,12 @@
+test
+run-main kmeans.fun.ScalaShop
+runMain kmeans.KMeansRunner
+submit quynh.nhu246@gmail.com nBQDijiXfMxkVhjO
+run-main kmeans.fun.ScalaShop
+runMain kmeans.KMeansRunner
+submit quynh.nhu246@gmail.com 21158, 372.804275, 389.610873, 366.102902, 382.91424, 378.075977, 341.66981, 340.150065
+sequential time: 408.08572344 ms
+submit quynh.nhu246@gmail.com RYfiVdmOhKSpOWY6
+runMain kmeans.KMeansRunner
+test
+^Z
