@@ -13,7 +13,7 @@ object Extraction {
     * @param temperaturesFile Path of the temperatures resource file to use (e.g. "/1975.csv")
     * @return A sequence containing triplets (date, location, temperature)
     */
-  def locateTemperatures(year: Int, stationsFile: String, temperaturesFile: String): Iterable[(LocalDate, Location, Double)] = {
+  def locateTemperatures(year: Year, stationsFile: String, temperaturesFile: String): Iterable[(LocalDate, Location, Temperature)] = {
     ???
   }
 
@@ -21,7 +21,7 @@ object Extraction {
     * @param records A sequence containing triplets (date, location, temperature)
     * @return A sequence containing, for each location, the average temperature over the year.
     */
-  def locationYearlyAverageRecords(records: Iterable[(LocalDate, Location, Double)]): Iterable[(Location, Double)] = {
+  def locationYearlyAverageRecords(records: Iterable[(LocalDate, Location, Temperature)]): Iterable[(Location, Temperature)] = {
     ???
   }
 
